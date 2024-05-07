@@ -33,7 +33,7 @@
 
 <br>
 <hr>
-<div align="center" display="flex">
+<div align="center" display="flex" width="fit-content">
   <a href="https://github.com/julianakcmelo">
   <img loading="lazy" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianakcmelo&layout=compact&langs_count=7&theme=dracula"/>
   <img loading="lazy" height="195em" src="https://github-readme-stats.vercel.app/api?username=julianakcmelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
