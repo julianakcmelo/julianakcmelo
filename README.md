@@ -33,12 +33,12 @@
 
 <br>
 <hr>
-<div align="center" display="flex" width="fit-content">
-  <a href="https://github.com/julianakcmelo">
-  <img loading="lazy" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianakcmelo&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="195em" src="https://github-readme-stats.vercel.app/api?username=julianakcmelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div>
+  <a href="https://github.com/Gurupreet">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianakcmelo&theme=dracula&hide_langs_below=1" />
+  </a>
 </div>
-<hr>
+
 <!---
 julianakcmelo/julianakcmelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
